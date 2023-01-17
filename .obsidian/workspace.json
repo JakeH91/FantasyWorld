@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods/God of Peace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3883d9104c16ce5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Gods/Overarching concept.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2008dbe2e7a0ac41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods/God of Death.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods/God of Death.md",
+                "file": "Gods/Overarching concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/God of Death.md",
+                "file": "Gods/Overarching concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods/God of Death.md"
+                "file": "Gods/Overarching concept.md"
               }
             }
           }
@@ -171,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90d0e89716df51dc",
+  "active": "e261eb16ed1d0b5c",
   "lastOpenFiles": [
-    "Gods/Overarching concept.md",
-    "Gods/God of Peace.md"
+    "Gods/God of Peace.md",
+    "Gods/God of Death.md",
+    "Gods/Overarching concept.md"
   ]
 }
