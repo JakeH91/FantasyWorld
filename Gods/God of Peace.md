@@ -1,1 +1,1 @@
-Created beings unable to comprehend any meaning of ownership. Caused... issues.
+Created beings unable to comprehend any meaning of ownership. Caused... issues. These issues are bad!
