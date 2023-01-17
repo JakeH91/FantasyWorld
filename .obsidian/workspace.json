@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d35fd4dabb26989f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods/Ideas for gods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods/Overarching concept.md",
+                "file": "Gods/Ideas for gods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/Overarching concept.md",
+                "file": "Gods/Ideas for gods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods/Overarching concept.md"
+                "file": "Gods/Ideas for gods.md"
               }
             }
           }
@@ -183,11 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd14388ee31b7434",
+  "active": "d35fd4dabb26989f",
   "lastOpenFiles": [
     "Gods/God of Death.md",
-    "Magic/Overarching concept.md",
     "Gods/Overarching concept.md",
+    "Magic/Overarching concept.md",
     "Gods/God of Peace.md"
   ]
 }
