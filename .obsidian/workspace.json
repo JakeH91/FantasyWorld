@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods/Overarching concept.md",
+                "file": "Magic/Overarching concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods/Overarching concept.md",
+                "file": "Magic/Overarching concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/Overarching concept.md",
+                "file": "Magic/Overarching concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods/Overarching concept.md"
+                "file": "Magic/Overarching concept.md"
               }
             }
           }
@@ -197,9 +197,9 @@
   },
   "active": "d35fd4dabb26989f",
   "lastOpenFiles": [
+    "Gods/Overarching concept.md",
     "Gods/Ideas for gods.md",
     "Gods/God of Peace.md",
-    "Gods/Overarching concept.md",
     "Gods/God of Death.md",
     "Magic/Overarching concept.md"
   ]

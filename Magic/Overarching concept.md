@@ -11,3 +11,6 @@ So, what would our magic system look like? Should it be detailed and explained (
 
 For me, I think I lean more to the latter. I think establishing clear rules about the magic system is tricky, and could also restrict us. But. open to hear what you think
 
+
+We could have an approach in which there are different forms of magic, and some of them are more known and understood, while others are more mysterious and not clearly defined. Could create a sense of intrigue and wonder when exploring different magic
+
