@@ -1,0 +1,1 @@
+a military guild that was used as a mercenary company. 
