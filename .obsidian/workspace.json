@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods/Overarching concept.md",
+                "file": "Magic/Overarching concept.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cd14388ee31b7434",
+            "id": "450d42987ec9b122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods/Overarching concept.md",
+                "file": "Magic/Ideas for magic.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,117 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d35fd4dabb26989f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic/Overarching concept.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49c586d25fb3c89f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f9ddfdbf7e014c94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Empire/Politics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34dcbfee2abfad01",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "395384f9a3a42acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Empire/The Guilds/The Trade Guild.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65bc083286e8bc31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Empire/The Guilds/The Purifying Guild.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7cb86c87c331a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Empire/The Guilds/The Mercenary Guild.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d97fe4ff5027eaaa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed5c2c74691cca9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Empire/History/1.0 Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46efe884123e2518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Empire/Religion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Empire/Religion.md",
+                "file": "Magic/Ideas for magic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Empire/Religion.md",
+                "file": "Magic/Ideas for magic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Empire/Religion.md"
+                "file": "Magic/Ideas for magic.md"
               }
             }
           }
@@ -291,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46efe884123e2518",
+  "active": "450d42987ec9b122",
   "lastOpenFiles": [
-    "The Empire/Politics.md",
-    "The Empire/History/Events/The Education Campaign.md",
     "The Empire/History/1.0 Overview.md",
-    "The Empire/History.md",
-    "The Empire/Religion.md",
+    "The Empire/History/Events/The Education Campaign.md",
+    "The Empire/The Guilds/The Magic Academy.md",
     "The Empire/The Guilds/The Mercenary Guild.md",
     "The Empire/The Guilds/The Purifying Guild.md",
-    "The Empire/The Guilds/The Magic Academy.md",
     "The Empire/The Guilds/The Trade Guild.md",
-    "Untitled.md"
+    "The Empire/Politics.md",
+    "The Empire/Religion.md",
+    "Magic/Ideas for magic.md",
+    "Magic/Overarching concept.md"
   ]
 }
