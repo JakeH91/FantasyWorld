@@ -2,3 +2,4 @@ In the start, many religion was allowed inside the empire. However, this is unkn
 
 At the moment, just a few religions are considered proper in the empire. 
 
+Other
