@@ -1,0 +1,16 @@
+We had a discussion deciding to use elements both of soft AND hard magic.
+
+There was originally only "soft" magic, which the gods used for all their various deeds. It's both incredibly powerful, but can be extremely dangerous and unpredictable. Still, being gods, for the most part they are able to control it no problem (other than great acts of magic, such as creating new races, which may end up stripping them of most of their connection to magic entirely).
+During this time, for perhaps centuries or even millennia, only a handful of mortals were ever able to harness any amount of this magic, and this was almost always a direct result of divine intervention (in one form or another, either a god simply gifting the power, or leaving behind something - an ancient artefact - with the power inside that a mortal just found etc).
+
+Then one day, a god decided to create a concentrated form of magic, with much more limitations, much less power, and much easier to control. Perhaps the god didn't want too much power in the hands of mortals, lest they use this power to defeat the gods. For whatever reason, this "hard" form of magic was created, and, as a result, mortals were able to learn the rules of this magic, and create entire institutions around training wizards and warlocks. It was never enough to challenge the gods, but for mortals, everything changed from then on. Those able to learn this skill were highly revered, and were often in positions of great power, or at the very least close advisors of those with great power.
+
+Eventually, different "degrees" of this hard magic was learnable, so it wasn't only those with great influence, magic was made much more accessible. Only certain "rules" of this magic were taught, however, the empire would withhold a great deal of this magic to only those that were deemed worthy.
+
+Only "hard" magic was legal, and any stories of those with "soft" abilities were quickly dealt with. "Soft" magic was not something that was taught even as a concept. Almost nobody even knew about it.
+
+So how are some people able to use "soft" magic? Well there could be multiple ways, such as finding the ancient artefacts mentioned earlier, or possibly being a direct descendant of one of the ancient magic users from millennia ago. OR, perhaps one of the gods that created the mortals (those that have lost the majority of their powers), perhaps their only chance of using "soft" magic again is to pass that gift to mortals, so long as those mortals worship them.
+
+BUT! Some other god, one with all their powers still, has taken the place of creator in the eyes of eg. the humans. So although God A created humans, God B came along afterwards and was like "I am your creator! Worship me!". So The Empire has decreed that only God B is allowed to be worshipped. So this poor powerless God A has to be sneaky to get worshippers, in order to pass this "soft" magic on to them.
+
+This could be one of the core threats to The Empire, these small factions of God A worshippers springing up here and there, learning these ancient chaotic forms of magic.
