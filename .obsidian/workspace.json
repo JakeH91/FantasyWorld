@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b4e05772f39fa3e5",
+        "id": "cbac9a60e8b79870",
         "type": "tabs",
         "children": [
           {
-            "id": "3a8b813965632905",
+            "id": "e261eb16ed1d0b5c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
                 "file": "Magic/Overarching concept.md",
                 "mode": "source",
@@ -23,8 +23,10 @@
             "id": "450d42987ec9b122",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/The Empire.md"
+              }
             }
           },
           {
@@ -182,15 +184,15 @@
   },
   "active": "450d42987ec9b122",
   "lastOpenFiles": [
+    "Excalidraw/Magic System.md",
+    "Gods/God of Death.md",
+    "Gods/God of Peace.md",
+    "Gods/Ideas for gods.md",
+    "Gods/Overarching concept.md",
     "Magic/Ideas for magic.md",
     "The Empire/History/1.0 Overview.md",
     "The Empire/History/Events/The Education Campaign.md",
     "The Empire/The Guilds/The Magic Academy.md",
-    "The Empire/The Guilds/The Mercenary Guild.md",
-    "The Empire/The Guilds/The Purifying Guild.md",
-    "The Empire/The Guilds/The Trade Guild.md",
-    "The Empire/Politics.md",
-    "The Empire/Religion.md",
-    "Magic/Overarching concept.md"
+    "The Empire/The Guilds/The Mercenary Guild.md"
   ]
 }
