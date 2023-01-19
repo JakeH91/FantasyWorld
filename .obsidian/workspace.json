@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Empire/History/1.0 Overview.md",
+                "file": "The Empire/Religion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Empire/History/1.0 Overview.md",
+                "file": "The Empire/Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Empire/History/1.0 Overview.md",
+                "file": "The Empire/Religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Empire/History/1.0 Overview.md"
+                "file": "The Empire/Religion.md"
               }
             }
           }
@@ -143,20 +143,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "3a8b813965632905",
   "lastOpenFiles": [
+    "Gods/God of Peace.md",
+    "The Empire/Religion.md",
+    "Excalidraw/Magic System.md",
     "Magic/Ideas for magic.md",
+    "Gods/Overarching concept.md",
     "The Empire/History/1.0 Overview.md",
     "The Empire/The Guilds/The Mercenary Guild.md",
     "conflict-files-obsidian-git.md",
     "Magic/Overarching concept.md",
-    "The Empire/Religion.md",
-    "The Empire/Politics.md",
-    "The Empire/History/Events/The Education Campaign.md",
-    "The Empire/History.md",
-    "The Empire/The Guilds/The Purifying Guild.md"
+    "The Empire/Politics.md"
   ]
 }
