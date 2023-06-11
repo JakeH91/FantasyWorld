@@ -1,0 +1,1 @@
+The offspring of [[Colossus|Colossi]]. Though still large and magical by other species standards, to a Colossus, the pale in comparison (though they make up for it in numbers). Whereas a [[Human]] may stand at just below waist-heigh to a Giant, a Giant stands below knee-height to a Colossus.

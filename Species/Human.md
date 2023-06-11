@@ -1,0 +1,1 @@
+Created by [[Immure]] with the intention to create a species whose purpose was to search out the deeper meanings of reality, they were deceived at creation by [[Chicane]], who they worshipped as their own creator.

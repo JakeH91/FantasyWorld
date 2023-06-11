@@ -1,0 +1,5 @@
+Formed from magical rock, Immure was immediately fascinated by the concept of sentience, and consciousness. He would spend his first few years attempting to create a species that would share this curiosity, something that would desire to discover the meaning of this sentient ability. This creation would become known as Human. Immure had a great desire to speak with his creations, and ponder together the very reason for their existence. However, [[Chicane]] convinced him that it would be much more rewarding to first observe them from a distance, to see if they discussed these topics amongst themselves.
+
+During this time, Immure was lured into Chicanes lake of origin, where it was revealed that he had been deceived. Chicane imprisoned Immure deep within the lake, and there he was left for more than a thousand years.
+
+When he was finally freed (as a result of [[The Magic Academy]]'s laws), he discovered that Chicane had been acting as the humans creator.
