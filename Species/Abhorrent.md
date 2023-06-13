@@ -1,0 +1,1 @@
+A loathsome beast created by [[Immure]], the Abhorrent uses it's telepathic abilities to lure beings into its great lake, and swiftly take their lives from them.

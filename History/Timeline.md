@@ -1,0 +1,36 @@
+- The Formation of the Planet
+	- Solar System forms around a newly ignited star
+	- As the planets coalesce, a magic cloud heads for the system
+	- The cloud strikes our planet, creating gods and magic infused resources (as described in [[Planet Formation]])
+- The Age of Magic
+	- As the other gods create humans, insect-creatures, dwarves etc, [[Ruin]] creates [[Colossus|Colossi]]
+	- The various species of the planet form simple nations, each of which forming special relationships with their creator gods
+		- This could be a good time for the idea that one god defeats another, and deceives the defeated god's species into believe that the victorious god is their creator, as written in [[Ideas for magic]]
+		- During this time, the gods walk amongst their creations, teaching them unique techniques to harness magic from the raw materials, through various refinement processes. The gods may also create some magical individuals within each species
+		- Some minor wars between nations occur. Mainly land disputes and fights for resources
+	- Ruin releases the Colossi and their Giant offspring from underground, and they are quick to destroy all established nations, leaving individuals scattered into the wilderness
+	- These individuals form rebellion squadrons all over the world, and many attempt to fight back, taking on one Colossus at a time (which proves to be almost entirely impossible, though a very small number are defeated in this time).
+	- It is not until different species - with their unique magic using capabilities - join together, that they are finally able to make a dent in Ruin's army
+	- In total, five species are able to form a strong coalition, and they begin to grow in strength and number
+	- Many great magical battles are fought, for several decades, with no clear victor in sight. These times are known as The Wars of Ruin
+	- Over the course of two generations, Ruins Rock is discovered, and the plan to separate her from the rock is formed.
+	- Once the rock is successfully wrenched from the land, it is shattered into five pieces, and transformed into 5 separate floating cities, to honour the gods of the five successful species (these cities are all located above a single continent, as a symbol of their unity)
+	- These civilisations become great, and vast, their populations go on to found cities all across the planet
+	- Their use of magic is spread amongst each other, and soon the different schools of magic can be learned by any species (though it is always strongest in the species that was first taught it by their god). During this time, [[The Magic Academy]] is formed, collecting all magical knowledge, and decreeing the safe and just use of magic between mortals and gods
+	- LOTS OF INTERESTING STORIES HAPPEN
+	- Eventually, the civilisation falls.
+		- For City 1, it seems the rock itself corrupted the inhabitants, particularly one species (this sets up a more "evil", monster-like species that inhabits the continent).
+		- City 2 is pulled from the sky by the magic of many Colossi working together, under Ruin's orders. There is a 99% death rate in the city, with most of the only survivors being severely injured in the process, and requiring strong, body altering magic just to survive.
+			- This is enough grounds to punish Ruin, since she is now acting against the laws of the Magic Academy. The other Gods imprison her in some way
+		- Cities 3 and 4 are flooded with refugees from City 1, and the overcrowding only leads to depravity and violence.
+		- City 5 become "elitist", and deny entry to (or exit from) the city.
+		- The eventual war between Cities 3, 4 and 5 mark the final end of the civilisation. With the remains of the cities left scattered across the continent. These wars become known simply as The Magic Wars
+		- City 1 is the only one that remains afloat, though the city itself is ruined. It is invested with the corrupted monster species, and nobody dares attempt to reclaim it
+	- The individuals that survive the collapse of the civilisation form small defensive villages, or roam the lands raiding and looting. The continent becomes a place of lawlessness and monsters
+	- The effects of The Magic Wars can be felt across the planet, and great magical storms rage, destroying much of the civilisations elsewhere, and covering the world in a darkness filled with constant thundering and lightning
+- The Age of Darkness
+	- Most of this time is filled with outlaws and infighting. Not much in the way of civilisation is found here, though the teachings of The Magic Academy remain, across the whole globe.
+	- Plenty of epic battles take place, with people taking on Colossi and Giants, as well as monster fighting on the continent of the 5 (ruined) Cities
+	- NEED TO COME UP WITH MUCH MORE ABOUT THIS TIME
+- The Age of the Empire
+	- It is here that The Empire is formed

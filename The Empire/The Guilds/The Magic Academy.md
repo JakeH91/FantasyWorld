@@ -1,0 +1,1 @@
+Founded at the end of The Wars of Ruin, this academy contained all the magical knowledge of the 5 Cities, and proposed laws on how magic could be used between individuals, both mortal and gods. It allowed [[Ruin]] to be punished for her crimes, and also freed [[Immure]] from his prison (though [[Chicane]] somehow managed to avoid all punishment).
