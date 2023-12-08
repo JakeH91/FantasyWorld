@@ -1,0 +1,2 @@
+The Dawn of Ilu holds profound significance, serving as both the primary symbol for Ilu's devout followers and a central on the mythical Ilutari. It manifests as a half-circle meticulously crafted from spikes, intricately forming radiant sunrays. This symbol embodies the essence of enlightenment, illustrating the transformative journey from darkness into light – a symbolic representation of the profound impact Ilu's presence brings, dispelling the shadows with the dawn of understanding and illumination.
+
