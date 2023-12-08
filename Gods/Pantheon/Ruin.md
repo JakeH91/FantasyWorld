@@ -9,3 +9,5 @@ She instructed her beings to tunnel upwards, an idea that she had until this mom
 The other gods were not prepared for this event, and the living beings they had created had no chance of defending themselves against such destruction, in an event that would eventually simply be referred to as [[The End]].
 
 From this moment onwards, the other gods, and all mortals, would fear Ruin. Curiously, however, for as long as she had her rock, all she would ever do was carving our more Colossi to add to her army. Yes, for as long as she had her rock...
+
+Addition: Ruin used [[Kall's Labyrinth]]
