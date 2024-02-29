@@ -6,7 +6,7 @@ But rather than marvel at her creation, Ruin began work on the next one. And the
 
 She instructed her beings to tunnel upwards, an idea that she had until this moment kept from their minds. At once, in spots all across the planet, the Colossi emerged, with their smaller Giant offspring, ready to destroy all that they found.
 
-The other gods were not prepared for this event, and the living beings they had created had no chance of defending themselves against such destruction, in an event that would eventually simply be referred to as [[The End]].
+The other gods were not prepared for this event, and the living beings they had created had no chance of defending themselves against such destruction, in an event that would eventually simply be referred to as [[Wars of Ruin]].
 
 From this moment onwards, the other gods, and all mortals, would fear Ruin. Curiously, however, for as long as she had her rock, all she would ever do was carving our more Colossi to add to her army. Yes, for as long as she had her rock...
 
