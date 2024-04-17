@@ -1,0 +1,1 @@
+Psyche Sages are wise counsellors and empathetic listeners who provide emotional support and guidance to the townsfolk. Their insight into the human psyche and nurturing presence offer solace and healing in times of distress and uncertainty.

@@ -1,0 +1,5 @@
+[[Bancu Costa]] goes missing, the case goes untouched for over a week due to the lack of [[Guardian]] resources. His sister, [[Maggie Costa]], struggles to deal with this mentally. She decides, for the first time, to escape her misery through magic, and arranges a deal with a known dealer, who suggests they meet early the next morning at the [[Migration Campsite]].
+[[Jeremy Tanner]] had been trying to buy some magic for himself, but his dealer, [[Gunnar Utsi]], had told him they were all out of Mind Magic, in fact he had just sold his last lot to a woman. He'd be delivering it the following morning.
+Jeremy decided to follow Gunnar that morning, and eventually saw him head into a tent at the abandoned campsite with the woman. He then saw Gunnar leave. Inside the tent, Maggie takes too much of the magic, and brain explodes through the back of her skull. Jeremy cautiously peers through the flaps of the tent and sees the dead lady upon the ground, steals the remaining magic, and immediately heads to the [[Guardian Post]] to report the body.
+This is where [[Session 0 - Rikke, Ia, Thomas]] picks up.
+
