@@ -1,0 +1,1 @@
+The group of people that protect the inhabitants of Gavdno from internal threats, be it criminals, or simply accidents.

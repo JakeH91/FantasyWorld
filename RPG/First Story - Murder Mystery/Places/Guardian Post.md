@@ -1,0 +1,1 @@
+The headquarters for the Guardians. It acts as their meeting place, their base of operations, and occasionally as a holding cell for any folk that might be needing a time out from society.
