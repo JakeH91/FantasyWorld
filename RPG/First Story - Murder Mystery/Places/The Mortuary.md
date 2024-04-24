@@ -1,1 +1,1 @@
-Wear dead bodies are examined and stored before the proper burial procedures are carried out.
+Where dead bodies are examined and stored before the proper burial procedures are carried out.

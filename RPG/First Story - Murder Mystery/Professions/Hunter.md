@@ -1,0 +1,1 @@
+Hunters are adept wilderness experts tasked with protecting the town and its inhabitants from the dangers of the surrounding forest. Masters of stealth and survival, they navigate the wilderness with skill and courage, serving as the [[Gavdno]]'s first line of defence against external threats, be it raiders, or monsters.
