@@ -1,2 +1,2 @@
 Played by: Thomas
-Profession: [[Ranger]]
+Profession: [[Hunter]]
