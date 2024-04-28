@@ -1,3 +1,5 @@
+Dealing with: [[The Case of Maggie Costa]]
+
 The session starts out with a brief description from each of the players on what their morning routines look like.
 
 - [[Thomas's Character]] takes a horse out into the nearby would to do a perimeter check, ensuring the safety of the town.
