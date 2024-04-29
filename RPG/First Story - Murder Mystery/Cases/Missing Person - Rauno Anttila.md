@@ -1,6 +1,6 @@
 ## Series of Events
 
-[[Anttila, Kati]] has reported that her brother, [[Anttila, Rauno]] has been missing. Even though usually, the Guardians do not take cases of missing persons at least after some days, this has been considered unusual, as [[Anttila, Rauno]] is a teenager. In addition, Kati mention that Rauno always shows up to the breakfast, and that he is careful about that after his parents got lost in the forest, and killed. 
+[[Anttila, Kati]] has reported that her brother, [[Anttila, Rauno]] has been missing. Even though usually, the Guardians do not take cases of missing persons at least after some days, this has been considered unusual, as [[Anttila, Rauno]] is a teenager. In addition, Kati mention that Rauno always shows up to the breakfast, and that he is careful about that after his parents got lost in the forest, and killed.
 
 Kati is considered an important part of the community, and the Anttila-family is considered one of the ancient families in the village. Finding Rauno is therefore considered important. 
 
