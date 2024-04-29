@@ -1,1 +1,0 @@
-Lives in the same neighbour as [[Frank Gaski]] and [[Ruben Aikio]], is part of a the [[The Troublesome Teenagers]]. He claims to know everything about everyone in town.

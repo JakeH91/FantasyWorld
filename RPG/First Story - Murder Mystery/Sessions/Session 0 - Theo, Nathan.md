@@ -15,6 +15,6 @@ After some conversation, it is revealed that Ruben is accusing Frank of attempti
 After a quick investigation of the house, Boris discovers the splintered doorframe appears to have been damaged from a blow inside the house rather the outside. They then meet Marta, who is a lovely lady that invites them in for tea. More observation reveals a clean house with no signs of any struggle.
 Marta lets them know that Ruben suffers from night terrors, and it could have just been that. Though he has never persisted with his illusions into the day before. He is usually either aware of the nightmares, or forgets them entirely. So that is strange.
 
-However, after a chat with [[Teenage Neighbour]], they learn that Ruben was seen shouting and screaming at nobody late that night/early that morning.
+However, after a chat with [[Matilda]], they learn that Ruben was seen shouting and screaming at nobody late that night/early that morning.
 
 Case closed?

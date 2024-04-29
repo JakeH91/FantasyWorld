@@ -6,4 +6,3 @@ This is where [[Session 0 - Rikke, Ia, Thomas]] picks up.
 ## Connected Cases
 - A direct result of [[Missing Person - Bancu Costa]]
 - Leads directly on to [[Small Town Mushroom]]
-
