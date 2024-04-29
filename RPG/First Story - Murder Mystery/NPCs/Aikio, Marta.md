@@ -1,4 +1,4 @@
-Married to [[Ruben Aikio]]. Works with [[The Priest]].
+Married to [[Aikio, Ruben]]. Works with [[The Priest]].
 
 Main Motivation:
 - Encourage the health of the forest through connection with the gods

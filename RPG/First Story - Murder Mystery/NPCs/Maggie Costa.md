@@ -1,1 +1,0 @@
-Spent her life working in the [[Porrmos Taalu]] as a waitress and occasional cook. After her brother [[Bancu Costa]] went missing, she turned to magic/drugs as a coping mechanism. But without any knowledge of how to use it, she took too much Mind Magic for her body to handle, and her brain exploded from the inside, straight out the back of her head.

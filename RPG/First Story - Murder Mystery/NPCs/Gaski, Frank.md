@@ -4,5 +4,5 @@ Main Motivation:
 - Prove that people from the empire are not untrustworthy. We are all just people, after all.
 
 Secondary Motivations:
-- Either get [[Ruben Aikio]] to see him as a person, instead of a immigrant mongrel, OR get Ruben fired.
+- Either get [[Aikio, Ruben]] to see him as a person, instead of a immigrant mongrel, OR get Ruben fired.
 

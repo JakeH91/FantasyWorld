@@ -1,0 +1,1 @@
+A [[Hunter]] immigrant from the Empire. Married to [[Costa, Ida]], who has since given birth to [[Costa, Maggie]] and [[Costa, Bancu]].

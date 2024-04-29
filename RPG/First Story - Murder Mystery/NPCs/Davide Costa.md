@@ -1,1 +1,0 @@
-A [[Hunter]] immigrant from the Empire. Married to [[Ida Costa]], who has since given birth to [[Maggie Costa]] and [[Bancu Costa]].

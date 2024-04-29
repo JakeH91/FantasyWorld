@@ -1,4 +1,4 @@
-Lives in the same neighbour as [[Frank Gaski]] and [[Ruben Aikio]].
+Lives in the same neighbour as [[Gaski, Frank]] and [[Aikio, Ruben]].
 
 A member of the [[Sneaky Squirrels]]
 

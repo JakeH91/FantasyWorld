@@ -1,2 +1,2 @@
-Owner of the [[Porrmos Taalu]], and head chef. Married to [[Davide Costa]], with whom they have two children, [[Maggie Costa]] (who works at the kitchen with her) and [[Bancu Costa]].
+Owner of the [[Porrmos Taalu]], and head chef. Married to [[Costa, Davide]], with whom they have two children, [[Costa, Maggie]] (who works at the kitchen with her) and [[Costa, Bancu]].
 She's a slightly larger woman, on the short side, and always busy rushing around the kitchen, plating up meals, and bossing Maggie around. Still, she's pleasant enough when she's not working.

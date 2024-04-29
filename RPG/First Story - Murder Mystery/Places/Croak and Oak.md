@@ -1,1 +1,1 @@
-A immigrant owned tavern by the river. Current bartender is [[Jeremy Tanner]], who's parents own the place. It gets it's name from the sounds of the frogs in the river, and the misidentification of trees in the area.
+A immigrant owned tavern by the river. Current bartender is [[Tanner, Jeremy]], who's parents own the place. It gets it's name from the sounds of the frogs in the river, and the misidentification of trees in the area.
