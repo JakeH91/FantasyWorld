@@ -1,1 +1,1 @@
-Member of the [[Sneaky Squirrels]]. Younger sister of [[Flink, Matilda]]
+Younger sister of [[Flink, Matilda]]
