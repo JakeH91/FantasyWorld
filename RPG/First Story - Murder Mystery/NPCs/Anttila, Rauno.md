@@ -11,7 +11,6 @@ Sometimes, he also goes to the library in the village (bit this does not his sis
 Short and frail, Rauno is not a person that occupies a room. He has the characteristic Anttila-nose (big) and the flowing ginger hair. 
 
 ## Motivations
-
 - Main: 
 	- Prove his worthiness of the Anttila-name. Mostly done through the learning of magic
 - Second: 

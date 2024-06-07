@@ -1,0 +1,1 @@
+A "surfer dude" type guy that hangs out by the lake, playing beach football.

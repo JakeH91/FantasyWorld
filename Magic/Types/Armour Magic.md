@@ -1,0 +1,1 @@
+Magic used to increase your resilience, giving you hard impenetrable skin.

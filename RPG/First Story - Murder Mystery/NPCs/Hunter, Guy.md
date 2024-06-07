@@ -1,0 +1,1 @@
+A [[Hunter]] that secretly uses [[Armour Magic]] to improve his chances against beasts.

@@ -1,4 +1,4 @@
-Younger sister of [[Flink, Matilda]]. Partner of [[Sokki, Margret]].
+Younger sister of [[Flink, Matilda]]. Partner of [[Sokki, Margret]]. Kind of shy.
 #### Appearance
 - Reasonably fit, lean body. Clearly trains a lot, though not the natural muscle mass of those working with the trees.
 - Short black hair that naturally falls across her face

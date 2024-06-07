@@ -3,5 +3,6 @@ The Mycelia are the underground network of [[Gavdno]], they deal in magic, petty
 
 Members:
 - [[Utsi, Gunnar]]
+- [[Labba, Elias]]
 - [[Tanner, Jules]]
 - [[Harvey, Scott]]
