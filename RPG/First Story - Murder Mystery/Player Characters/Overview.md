@@ -1,0 +1,39 @@
+Skills of interest:
+- Athletics x3
+- Dodge x2
+- Drive (Boris)
+- Ride x3
+- Weaving (Arden)
+- Woodworking/Whittling (Boris)
+- Melee Weapons x2
+- Missile Weapons x2
+- Unarmed Combat (Maniatis)
+- Bargain (Arden)
+- Charm x2
+- Intimidate x3.5
+- Performance (Clive)
+- Persuade x3.5
+- Anthropology x2
+- Animal Mastery x3
+- Archeology (Clive)
+- Cult Lore x2
+- Elder Race Lore (Arden)
+- First Aid x3
+- Heavy Equipment (Boris)
+- History x2
+- Psyche Mend (Maniatis)
+- Science (Clive)
+- Humorism (Maniatis)
+- Surgery (Maniatis)
+- Survival x3
+- Read/Write x3
+- Alertness x4
+- Listen x 1.5 (Sagon)
+- Observation x5
+- Read Person x2.5
+- Search x5
+- Track x1.5 (Sagon)
+- Disguise x2
+- Hide x3.5
+- Move Quietly x2.5
+- Sleight (Maniatis)
