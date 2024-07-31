@@ -1,0 +1,5 @@
+This time of year was her favorite. The air was crisp, thanks to the northern winds bringing cold, moist breezes from the sea up the plains. The summer’s oppressive heat had finally released its grip on the capital, and everyone usually took advantage of the comfortable weather. Usually, the city thrived in this season, but now, it lay in a heavy silence, waiting for its inevitable end. 
+
+The siege had lasted two weeks. Desperation had set in among the populace. Everyone was barricaded in their homes. Even though there has been no fighting tet, the city was completely surrounded. The [[Thirstborn]] had arrived and taken hold, consuming villages and nearby resources. They were close to using up all the resources. Only the city left then, for the hungry cursed army. [[The Grand Hierarch]] would then give the signal to begin the final assault. Why? No one knew for certain. Perhaps her hunger matched that of her army. But one thing was clear: once the siege began, the city would fall. The Thirsborn would feast on the flesh of its inhabitants in a frenzied ritual. 
+
+That was their fate. She took a deep breath, savoring the season. How she loved this time of year.
