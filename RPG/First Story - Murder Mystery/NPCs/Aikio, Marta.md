@@ -1,4 +1,4 @@
-Married to [[Aikio, Ruben]]. Works with [[The Priest]].
+Married to [[Aikio, Ruben]]. Works with [[The Shaman]].
 ## Appearance
 - Slightly chubby, round. Wears lots of floral patterns.
 - Short hair bushes out in hundreds of perfect curls

@@ -4,4 +4,3 @@ Later, as the working hour approaches, trouble breaks out at the [[Sawmill]]. Ru
 This is where [[Session 0 - Theo, Nathan]] picks up.
 ## Connected Cases
 - Leads directly on to [[Missing Person - Ruben Aikio]]
-

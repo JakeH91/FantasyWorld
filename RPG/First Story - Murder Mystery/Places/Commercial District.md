@@ -1,0 +1,1 @@
+A local area in which goods are traded.
