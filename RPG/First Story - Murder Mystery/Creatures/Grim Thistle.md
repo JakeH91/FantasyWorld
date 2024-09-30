@@ -6,7 +6,11 @@ This cycle continues, gradually capturing larger and larger prey, sometimes mimi
 Their end goal, the mimicry of moose, the prey of the [[Giant Badger]]. When the Giant Badger consumes this moose mimic, the Grim Thistle uses them to disperse themselves across the forest, where they will eventually consume the Giant Badger from the inside, until, upon it's death, it will sprout from the body into a large, bush-like tree which lives as traditional plantlife. It eventually disperses it's seeds to it's neighbouring Vuosarcuoda to begin the cycle again.
 
 ### Stats
-Hit Points: 10
+STR          15 x SIZE
+DEX          80 - (2 x SIZE)
+
+Hit Points: 4 x SIZE
+SIZE: 1 - 5
 #### Combat
 Attacks per Round: 1 per vine trap
 
@@ -14,8 +18,8 @@ Attacks per Round: 1 per vine trap
 
 **Whip**: After a failed Trap manoeuvre , the Grim Thistle may recruit more vines to whip at it's prey. A successful Whip will distract it's prey, offering a +10% bonus to it's next Trap attempt.
 #### Skills
-**Fighting** 25%, damage 1
-**Trap** (mnvr) 70%, caught/held, damage 1D4
+**Fighting** 25%, damage = SIZE
+**Trap** (mnvr) 70%, caught/held, damage 1D4 + SIZE
 **Dodge** 30%, where plant able to move
 
 **Sanity Loss**: 1/1D4
