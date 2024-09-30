@@ -1,4 +1,3 @@
-
 ### Description
 This flesh-eating plant goes by many names: Choking Thicket, Wraithvine, Siren's Snare, but most people in [[Gavdno]] know it as the Grim Thistle.
 

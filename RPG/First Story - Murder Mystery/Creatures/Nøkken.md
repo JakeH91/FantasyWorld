@@ -11,3 +11,5 @@ Attacks per round: 1
 **Siren's Call**: Each round of combat, all combatants must make a contested POW roll against the Nøkken. A loss forces them to walk towards the water, a success staps them out of their trance. If the combatant reaches the water, they hold themselves under. From then on, they get -20% to their POW rolls, and must succeed a CON roll, or take 2 damage.
 
 Nøkken flee at the first sign of aggression, though the echoes of their song remain (rolls are no longer required, however).
+
+**Sanity Loss**: 1/1D6
