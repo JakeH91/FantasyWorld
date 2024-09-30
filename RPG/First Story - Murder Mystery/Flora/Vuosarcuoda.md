@@ -1,0 +1,1 @@
+The sturdy, near indestructible trees of the [[RPG/First Story - Murder Mystery/Places/Mörkamatki|Mörkamatki]] forest.

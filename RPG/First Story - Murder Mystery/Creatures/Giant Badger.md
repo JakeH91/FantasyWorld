@@ -1,0 +1,1 @@
+Maybe Bear (186) or Werewolf (p148, 182, 183)

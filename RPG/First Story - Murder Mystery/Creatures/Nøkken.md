@@ -1,0 +1,1 @@
+Maybe Swamp Lurtker (p98), or Lake Monster (p176), or Fisher from Outside (p65), or Dweller in the Depths (p61)

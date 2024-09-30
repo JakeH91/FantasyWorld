@@ -3,4 +3,4 @@ Magic dealer for [[The Mycelia]]. A middle aged, chubby man with expensive, badl
 - Main: 
 	- Make money, show off his wealth
 - Secondary: 
-	- Recruit youngsters into The Mycelia 
+	- Recruit youngsters into The Mycelia
