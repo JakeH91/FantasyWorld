@@ -9,7 +9,6 @@ CON         35
 DEX          90
 INT           10
 POW        35
-CHA         00
 
 Hit Points: 4 (average)
 Size: 10 shriekgliders (average)
