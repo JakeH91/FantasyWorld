@@ -27,7 +27,7 @@ reducing the swarm’s collective hit points by one.
 Multiply the number of shriekgliders in a pack by five, and use the product of these numbers as the percentage Fighting value of the pack (thus, a pack of ten shriekgliders has a Fighting skill of 50%). The pack may attack one or more targets in a single round, with the pack’s Fighting skill divided between the targets (e.g. if three targets, the Fighting value may be divided as 20% against two, and 10% against the third target).
 
 #### Skills
-**Fighting** (pack of 10) 50%, damage 1 (+1 per additional 10 shriekgliders in the swarm, to maximum of 6)
+**Fighting** (SIZE x 5)% , damage 1 (+1 per additional 10 shriekgliders in the swarm, to maximum of 6)
 **Maul** 50%
 **Overwhelm** (mnvr) 50% (25/10), damage 1 per 2 shriekgliders
 Dodge 50%
