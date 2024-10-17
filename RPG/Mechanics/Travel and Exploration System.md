@@ -11,7 +11,7 @@
 	3. Human encounter (friend)
 	4. Human encounter (foe)
 	5. Physical obstacle
-	6. No encounter
+	6. GM's choice
 3. Survival check (if staying in the hex)
 	1. For food/water foraging. Successful check earns food and water for 2 people for 1 day - takes 1D4 hours
 	2. Hunting: Successful check earns food for 4 people for 1 day - takes 1D4 hours. Failure takes 2 damage
