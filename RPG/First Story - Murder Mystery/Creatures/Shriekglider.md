@@ -24,6 +24,7 @@ Attacks per Round: 1 (bite, claw)
 Use the profile above to represent a collective group of ten large shriekgliders. Increase the swarm’s hit points by +4 per additional ten shriekglider, and reduce these by the same
 amount to account for losses. Each time an opponent wins a combat against the swarm, reduce the number of shriekgliders by one (no damage roll required), with the death of four shriekgliders
 reducing the swarm’s collective hit points by one.
+
 Multiply the number of shriekgliders in a pack by five, and use the product of these numbers as the percentage Fighting value of the pack (thus, a pack of ten shriekgliders has a Fighting skill of 50%). The pack may attack one or more targets in a single round, with the pack’s Fighting skill divided between the targets (e.g. if three targets, the Fighting value may be divided as 20% against two, and 10% against the third target).
 
 #### Skills

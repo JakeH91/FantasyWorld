@@ -10,7 +10,7 @@ POW        15
 
 Hit Points: 10 + (3 x SIZE)
 Size: 1 - 3
-Armour: 1 x SIZE (Max 3)
+Armour: 1 + 1 x SIZE (Max 3)
 #### Combat
 Attacks per Round: 2 (bite, claw)
 

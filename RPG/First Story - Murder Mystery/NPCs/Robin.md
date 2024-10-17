@@ -1,1 +1,1 @@
-A "surfer dude" type guy that hangs out by the lake, playing beach football.
+A "surfer dude" type guy that hangs out by the lake, playing beach football. He works at the Horse Shack.
